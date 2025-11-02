@@ -15,13 +15,13 @@ Displays a red ASCII art banner on run for coolness effect.
 Just Python3
 
 ## Installation
-'''bash
+```bash
 git clone https://github.com/dzumq/python2command.git
-'''
+```
 
 ## Usage
-'''bash
+```bash
 python3 python2command.py
-'''
+```
 When prompted, enter the full path to your target Python file (e.g., /path/to/your_script.py)
 Thats it!!!
