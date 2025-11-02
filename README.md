@@ -5,7 +5,7 @@ I am constantly creating scripts to automate tasks and I very much dislike havin
 Figured I would share this simple script to help others out.
 
 ## Rundown
-Takes uiser input for python file.
+Takes user input for python file.
 Adds shebang to your Python script (yes even if you already have one, sorry).
 Copies the modified script to /usr/local/bin as an executable command (drops .py extension).
 Sets execute permissions with chmod +x.
@@ -24,4 +24,5 @@ git clone https://github.com/dzumq/python2command.git
 python3 python2command.py
 ```
 When prompted, enter the full path to your target Python file (e.g., /path/to/your_script.py)
+
 Thats it!!!
